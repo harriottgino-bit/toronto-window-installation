@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://torontowindowinstallation.ca/sitemap.xml
+Sitemap: https://clearpanetoronto.ca/sitemap.xml
